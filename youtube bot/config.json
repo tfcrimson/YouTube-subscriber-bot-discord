@@ -1,0 +1,20 @@
+{
+    "bot_token": "your_bot_token",
+    "prefix": "?",
+    "color": "0xfb00ff",
+    "bot_channel1": "000",
+    "bot_channel2": "000",
+    "dont_change": false,
+    "cookie_file": "cookies.txt",
+    "role1": "YOUR_ROLE_1",
+    "role2": "YOUR_ROLE_2",
+    "role3": "YOUR_ROLE_3",
+    "role4": "YOUR_ROLE_4",
+    "role5": "YOUR_ROLE_5",
+    "default_amount": 2,
+    "role1_amount": 10,
+    "role2_amount": 20,
+    "role3_amount": 30,
+    "role4_amount": 40,
+    "role5_amount": 50
+}
